@@ -1,7 +1,7 @@
-Neste projeto, primeiramente em versões iniciais, incluirei um programa com fórmulas e algoritmos simples de Física.
+In this project, firstly in initial versions, I will include a program with simple Physics formulas and algorithms.
 
-Uma espécie de reposítorio de fórmulas do Halliday.
+A kind of repository of Halliday's formulas.
 
-Após um tempo, irei bolar uma forma de integrar todas as equações possíveis, de modo que, dado um cenário onde exista uma variável x, possa se converter em qualquer varíavel y (uma vez entregando os parâmetros necessários).
+After a while, I will come up with a way to integrate all possible equations, so that, given a scenario where there is a variable x, it can be converted into any variable y (once delivering the necessary parameters).
 
-Por fim, se isso for possível, futuramente penso em criar um simulador 3D de Física completo, aproveitando as fórmulas e conhecimentos adquiridos ao longo do tempo
+Finally, if possible, in the future I think about creating a complete 3D Physics simulator, taking advantage of the formulas and knowledge acquired over time
